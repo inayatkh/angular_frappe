@@ -120,6 +120,8 @@ doc_events = {
 }
 # Fixtures
 fixtures =[
+        "Header Component",
+        "Footer Component",
         "Web Theme",
         "Page Section",
         "Web Page Builder",
