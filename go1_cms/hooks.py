@@ -118,6 +118,11 @@ doc_events = {
 	}	
 
 }
+# Fixtures
+fixtures =[
+        "Web Page Builder",
+
+]
 
 # Scheduled Tasks
 # ---------------
