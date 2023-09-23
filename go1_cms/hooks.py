@@ -125,6 +125,7 @@ fixtures =[
         "Web Theme",
         "Page Section",
         "Web Page Builder",
+        "Menu",
 
 ]
 
