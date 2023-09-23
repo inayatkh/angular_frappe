@@ -126,6 +126,7 @@ fixtures =[
         "Page Section",
         "Web Page Builder",
         "Menu",
+        "Website Settings",
 
 ]
 
